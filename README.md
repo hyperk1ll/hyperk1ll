@@ -3,10 +3,10 @@
 
 My name is Muhammad Hilmy Tsany
 
-I am Front-End Developer from Indonesia
+I am Backend Developer from Indonesia
 
-- Mastering Cloud Very Soon
-- Currently Interest in Back-End Developing, Hope soon will become a Full-Stack
+- Cloud and DevOps Enthusiast
+- Hope soon will become a Full-Stack
 
 
 
